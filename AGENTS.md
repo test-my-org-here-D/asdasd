@@ -1,47 +1,30 @@
 # AGENTS.md
 
-Guide for coding agents working in this repository. Keep it short and accurate.
+Guidance for coding agents working in this repository.
 
 ## Project overview
 
-This repository is at an early stage. It holds only a placeholder file.
-
-TODO: Describe the purpose of the project in one line.
+This is a test repository. It has no application code and no planned project.
 
 ## Repository layout
 
-- `AGENTS.md`: this guide.
-- `test`: placeholder file with no functional content.
+- `test`: placeholder file containing the word "test". Do not change it.
 
-There are no subfolders.
+## Setup
 
-## Setup and commands
+Not defined yet. Update this section when the first code lands.
 
-No setup steps or commands are defined yet.
+## Build and test commands
 
-TODO: Add install, build, and run commands once they exist.
+Not defined yet. Update this section when the first code lands.
 
-## Code style
+## Code style and conventions
 
-No code style or conventions are defined yet.
+Not defined yet. Update this section when the first code lands.
 
-TODO: Add language, formatting, and naming conventions once they exist.
+## Working rules for agents
 
-## Testing
-
-No test framework or test command is defined yet. The `test` file is a placeholder, not a test.
-
-TODO: Add the test command and testing conventions once they exist.
-
-## Commits and pull requests
-
-- Work on a branch off `main`. Do not commit directly to `main`.
-- Open a pull request against `main`.
-- Keep commits small with clear messages.
-
-## Agent rules
-
-- Read this file first, before making changes.
-- Do not add dependencies or tooling unless asked.
-- Update this file when a command, convention, or layout changes.
-- Ask before destructive actions, such as deleting files or rewriting history.
+- Keep changes small and focused.
+- Do not commit secrets or credentials.
+- Update this file when conventions or commands change.
+- Run any available tests before finishing.
